@@ -320,7 +320,7 @@ You can use the above tools to:
 **Abhirup Moitra**  
 📍 University of Essex, School of Mathematics, Statistics, and Actuarial.  
 🔭 Research Areas: Real & Complex Analysis, Fractal Geometry, Complex Dynamics, Dynamical Systems, and Computational Mathematics.  
-🌐 [LinkedIn](https://www.linkedin.com/in/abhirup-moitra/) | [GitHub](https://github.com/ABHI20-STAT) https://abhirup-moitra-mathstat.netlify.app/| 
+🌐 [LinkedIn](https://www.linkedin.com/in/abhirup-moitra-7a66731a6/) | [GitHub](https://github.com/ABHI20-STAT) | [Website](https://abhirup-moitra-mathstat.netlify.app/)| 
 
 ---
 
